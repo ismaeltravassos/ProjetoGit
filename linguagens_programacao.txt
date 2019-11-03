@@ -2,4 +2,3 @@ C
 Java EE
 Python
 C++
-Ruby
