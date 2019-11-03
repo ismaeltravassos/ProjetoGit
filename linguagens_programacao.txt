@@ -2,5 +2,4 @@ C
 Java
 Python
 C++
-Lua
 Ruby
