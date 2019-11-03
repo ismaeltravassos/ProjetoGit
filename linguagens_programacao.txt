@@ -1,4 +1,4 @@
 C
-Java EE
+Java SE
 Python
 C++
